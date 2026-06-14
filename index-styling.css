@@ -1,0 +1,40 @@
+body {
+    margin: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.pic{
+    width: 150px;
+    border-radius: 5px;
+}
+.card{
+    display: flex;
+    width: 400px;
+
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+
+    justify-content: space-around;
+
+    color: #2b2839;
+    background: #dad7cd;
+    border-bottom: 10px solid #7C8B65;
+}
+.info{
+    text-align: center;
+}
+button{
+    border: 0;
+    padding: 5px;
+    border-radius: 5px;
+}
+button:hover{
+    color: white;
+    background: #7C8B65;
+}
+h2{
+    margin-bottom: 5px;
+}
+h3{
+    margin-top: 5px;
+}
