@@ -7,7 +7,7 @@ body{
 }
 
 .top{
-    background-image: url("/images/galaxy.gif");
+    background-image: url("../images/galaxy.gif");
     background-size: cover;
     padding: 40px 0 120px 0;
     text-shadow: 0px 0px 10px black;
